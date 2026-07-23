@@ -1,8 +1,8 @@
 {
-  "latest": "0.0.13",
-  "minSupported": "0.0.13",
+  "latest": "0.0.14",
+  "minSupported": "0.0.14",
   "native": {
-    "url": "https://github.com/AndriusKuc/marina-release/releases/download/v0.0.13/Marina-Native.zip",
-    "sha256": "432cc97255a1aeb26525fb1567481495a38a0041aa2b7f8ab201f17e8676a7cb"
+    "url": "https://github.com/AndriusKuc/marina-release/releases/download/v0.0.14/Marina-Native.zip",
+    "sha256": "dc6d504012cd511d40baa70daf28104bf26ee00bd20f634bfaefda12c749a278"
   }
 }
